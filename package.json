@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/isssss/react-practice/issues"
   },
-  "homepage": "https://github.com/isssss/react-practice#readme"
+  "homepage": "https://github.com/isssss/react-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
